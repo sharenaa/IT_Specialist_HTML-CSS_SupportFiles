@@ -1,30 +1,35 @@
-﻿body {
-    font-family:'Segoe UI', Tahoma, sans-serif;
-    background-color: #f7d2aa
-}
-p {
-    color: navy;
+body {
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  background-color: #f7d2aa;
 }
 
-/* The background color is extending across the page,
-    so I have commented it out for now. */
+p {
+  color: navy;
+}
+
 figcaption {
-    color: navy;
-    font-weight: bold;
-    /*background-color: #AAEEFF;*/
+  color: navy;
+  font-weight: bold;
+  background-color: #AAEEFF; /* Removed the comment */
+  display: inline; /* Added display: inline */
 }
+
 .sale {
-    font-weight: bold;
-    background-color: #AAEEFF;
+  font-weight: bold;
+  background-color: #AAEEFF;
 }
+
 #sidenote {
-    background-color: #DDDDDD;
+  background-color: #DDDDDD;
+  display: inline; /* Added display: inline */
 }
+
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
+
 a:hover {
-    text-decoration: underline;
-    font-weight: bold;
-    font-family: 'Palatino Linotype','Times New Roman', serif;
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: 'Palatino Linotype', 'Times New Roman', serif;
 }

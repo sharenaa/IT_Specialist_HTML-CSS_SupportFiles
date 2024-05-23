@@ -4,7 +4,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: Helvetica, Arial, sans-serif; /* Added rule set for headings */
+    font-family: Helvetica, Arial, sans-serif; /*  rule set for headings */
 }
 
 p {
@@ -28,6 +28,8 @@ figcaption {
 #sidenote {
     background-color: #DDDDDD;
     display: inline;
+    border-color: navy; /*  border color property */
+    border-style: dashed; /*  border style to dashed */
 }
 
 a {

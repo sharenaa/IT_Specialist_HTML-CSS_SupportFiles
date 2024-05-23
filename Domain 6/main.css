@@ -1,12 +1,12 @@
-﻿body {
-    font-family:'Segoe UI', Tahoma, sans-serif;
-    background-color: #f7d2aa;
+body {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    backgrounds-color: #f7d2aa; /* changed backgrounds from background-color */
 }
 p {
     color: navy;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1, h2, h3, h4, h5, h6 {
     font-family: Helvetica, Arial, sans-serif;
     font-variant: small-caps;
 }
@@ -31,7 +31,7 @@ a {
 a:hover {
     text-decoration: underline;
     font-weight: bold;
-    font-family: 'Palatino Linotype','Times New Roman', serif;
+    font-family: 'Palatino Linotype', 'Times New Roman', serif;
 }
 
 @media only screen and (max-width: 500px) {

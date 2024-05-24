@@ -6,6 +6,7 @@ ul{
 
 }
 li{
+ display:block;
   float:left;
 }
 li a, dropbtn {

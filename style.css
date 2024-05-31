@@ -91,3 +91,15 @@ li.dropDown {
 	top:1px;
 	z-index:1;
 }
+
+.slides {
+  border: 4px solid #000000;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #006609;
+  background-color: #006609;
+  position: absolute;
+  right: 20px;
+  margin: 2px;
+  padding: 2px;
+  height: 650px;
+  width: 45%;

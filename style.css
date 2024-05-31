@@ -82,7 +82,7 @@ li.dropDown {
 	transition: height 4s;
 	display:block;
 }
-#l1{
+#first{
 	border:#dcd0ff 1px solid;
 	background-image:repeating-linear-gradient(white,lightgrey);
 }

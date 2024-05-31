@@ -97,7 +97,7 @@ li.dropDown {
   border-radius: 10px;
   box-shadow: 5px 5px 5px lightsteelblue;
   background-color: lightsteelblue;
-  position: absolute;
+  position: relative;
   right: 20px;
   margin: 2px;
   padding: 2px;

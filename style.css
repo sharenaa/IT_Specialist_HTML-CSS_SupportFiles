@@ -76,7 +76,7 @@ li.dropDown {
 	font-size: 0.9em;
 	height: 25px;
 	overflow: hidden;
-	width: 80%;
+	width: 50%;
 	position:relative;
 	left: 10%;
 	transition: height 4s;

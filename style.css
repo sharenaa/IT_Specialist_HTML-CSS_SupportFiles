@@ -96,12 +96,12 @@ li.dropDown {
   border: 4px solid #000000;
   border-radius: 10px;
   box-shadow: 5px 5px 5px #006609;
-  background-color: #006609;
+  background-color: #E6E6FA;
   position: absolute;
   right: 20px;
   margin: 2px;
   padding: 2px;
   height: 650px;
-  width: 45%;
+  width: 30%;
 
 }

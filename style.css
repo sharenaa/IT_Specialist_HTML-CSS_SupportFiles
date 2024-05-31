@@ -95,8 +95,8 @@ li.dropDown {
 .avatar {
   border: 4px solid #000000;
   border-radius: 10px;
-  box-shadow: 5px 5px 5px #E6E6FA;
-  background-color: #E6E6FA;
+  box-shadow: 5px 5px 5px lightsteelblue;
+  background-color: lightsteelblue;
   position: absolute;
   right: 20px;
   margin: 2px;
